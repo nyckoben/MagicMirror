@@ -81,3 +81,7 @@ Temporary Items
 *.orig
 *.rej
 *.bak
+
+# nycko
+!/modules/N_currentweather
+!/modules/N_currentweather/**
